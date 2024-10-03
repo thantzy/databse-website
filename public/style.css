@@ -1,0 +1,153 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section-content{
+    width: 100%;
+}
+table{
+    width: 100%;
+}
+
+tr, td{
+   margin-top: 100px;
+}
+
+.header-table td{
+    font-weight: bold;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+tr{
+    text-align: left;
+    background-color: antiquewhite;
+}
+
+a{
+    justify-content: center;
+    height: 100px;
+    text-decoration: none;
+}
+
+.link button:hover{
+    background-color: burlywood;
+    color: white;
+}
+
+.button-index{
+    width: 100%;
+    background-color: cadetblue;
+    padding: 50px;
+}
+header{
+    background-color: rgb(26, 66, 52);
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    padding-top: 25px;
+    width: 100%;
+    align-items: center;
+}
+
+.tambah-container {
+    background-color: cadetblue;
+    width: 46%;
+    align-items: center;
+    margin-left: 27%;
+    border-radius: 10px;
+}
+
+form {
+    justify-content: center;
+    display: flex;
+}
+
+.ul-create{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cadetblue;
+    padding: 50px;
+    width: 40%;
+    text-align: center;
+    border-radius: 10px ;
+}
+
+.ul-create li{
+    padding: 20px;
+    list-style: none;
+    font-size: 30px ;
+}
+
+input{
+    font-size: 70%;
+    margin-left: 10px;
+    border: 2px solid blue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.submit-button{
+    background-color: aqua;
+    padding: 20px;
+    margin-top: 20px;
+    width: 30%;
+    border-radius: 7px;
+    cursor: pointer;
+    border: 0;
+}
+
+.submit-button:hover{
+    background-color: bisque;
+}
+
+label{
+    margin-right: 100px;
+}
+
+.input-first{
+    margin-right: 20px;
+}
+
+.input-second{
+    margin-left: 20px;
+}
+
+.input-third{
+    margin-right: 40px;
+}
+    
+.delete-border{
+    background-color: red;
+    color: white;
+    border-radius: 7px;
+    font-size: 17px;
+    margin-left: 10px;
+    text-align: right;
+}
+
+.delete-border a{
+    color: white;
+}
+
+.edit-container{
+    background-color: blue;
+    color: white;
+    border-radius: 7px;
+    font-size: 17px;
+    margin-left: 5px;
+    text-align: left;
+}
+
+.edit-container a{
+    color: white;
+    padding: 2px;
+}
+
+.aksi-content{
+    width: 20%;
+    text-align: center;
+}
